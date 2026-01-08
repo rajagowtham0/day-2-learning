@@ -55,3 +55,4 @@ git reset
 git rm <file>
 → Deletes a file and stages the deletion.
 
+This line is added in the new created branch called feature branch.
