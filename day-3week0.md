@@ -15,8 +15,9 @@ Now, let's implement the Git fetch by using the required function.
 
 Now, let's implement the Git pull by using the required function.
 
-git delete function to check
-
 merged the deletebranch to main
+
+deleted the created delete branch
+
 
 
