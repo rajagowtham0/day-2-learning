@@ -11,3 +11,6 @@ It works by updating the remote-tracking branches, allowing users to review chan
 git fetch is useful when you want to inspect or compare updates from GitHub without affecting your current work.
 
 Now, let's implement the Git fetch by using the required function.
+
+Now, let's implement the Git pull by using the required function.
+
