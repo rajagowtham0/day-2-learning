@@ -1,5 +1,5 @@
 
-Day 3 learning git fetch, pull, stimulate, merge and solve conflicts in new beanch
+Day 3 learning git fetch, pull, stimulate
 
 Git pull
 git pull is used to fetch the latest changes from a remote repository and automatically merge them into the current local branch.
