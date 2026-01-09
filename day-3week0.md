@@ -9,3 +9,5 @@ git ftech
 git fetch is used to download the latest changes from a remote repository without merging them into the local branch.
 It works by updating the remote-tracking branches, allowing users to review changes safely before applying them.
 git fetch is useful when you want to inspect or compare updates from GitHub without affecting your current work.
+
+Now, let's implement the Git fetch by using the required function.
