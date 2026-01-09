@@ -1,4 +1,4 @@
-Day 3 learning of fetch vs pull on the, merge
+Day 3 learning of fetch
 
 Git pull
 git pull is used to fetch the latest changes from a remote repository and automatically merge them into the current local branch.
